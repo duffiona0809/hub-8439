@@ -1,0 +1,13 @@
+# General
+.DS_Store
+.idea/
+.vscode/
+*.log
+*.tmp
+*.swp
+*~
+.env
+.env.local
+dist/
+build/
+coverage/
